@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(151, 142, 142);
+    height: 100%;
+    margin: 0;
+    align-items: center;
+    text-align: center;
+}
+input {
+    border-radius: 7px;
+}
+textarea {
+    border-radius: 5px;
+}
